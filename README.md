@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hyudhi
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science
+- Hi, Im hyudhi
+- Im currently learning Data Science
 
 <!---
 hyudhi/hyudhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
